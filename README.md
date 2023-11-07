@@ -1,7 +1,9 @@
 # investment-calculator
+## Screenshots 📸
+![(invest calculator)](https://res.cloudinary.com/dbkthd6ck/image/upload/v1699379044/investement_calculator_u7k45h.png)
 # Getting Started with Create React App
 This project was created with [Create React App](https://github.com/facebook/create-react-app).
-
+https://res.cloudinary.com/dbkthd6ck/image/upload/v1699379044/investement_calculator_u7k45h.png
 # Installation 🦾
 ```bash
 git clone https://github.com/jaymhorsh/investment-calculator.git
